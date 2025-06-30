@@ -75,9 +75,10 @@ Recursos:
 ---
 
 ## 📚 Fontes e Leitura Complementar
-> [1. Visão geral do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/fundamentals/overview)
-> [2. Guia de Alertas](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview)
-> [3. Consultas no Log Analytics](https://learn.microsoft.com/pt-br/azure/azure-monitor/logs/log-query-overview)
+
+- [Visão geral do Azure Monitor](https://learn.microsoft.com/pt-br/azure/azure-monitor/fundamentals/overview)
+- [Guia de Alertas](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview)
+- [Consultas no Log Analytics](https://learn.microsoft.com/pt-br/azure/azure-monitor/logs/log-query-overview)
 
 ---
 
